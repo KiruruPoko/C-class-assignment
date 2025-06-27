@@ -1,1 +1,1 @@
-Assignments for programming class (C language) 
+Assignments for my programming class (C language) 
